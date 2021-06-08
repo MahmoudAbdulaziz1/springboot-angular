@@ -42,7 +42,9 @@
     "jwtSecretKey": "MjUwOGRjYzYxMGIwOTdmNzkzZjMzODJhNTZjN2ExOTkwMjU4ZTE3MGY1MjFlOGMzZWFjMzI3NTgwNDgwN2VjNDg0NzVlODI0MGQ2M2VkMzQyMzI1MDhlYzhhMWIxNTc5ZjEyN2VkNTQ5YzJjMTRlNjhhN2I0YjI5NWYxZmYzNmE=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1623188129000
   },
   "git-provider": "GitHub",
   "git-company": "MahmoudAbdulaziz1",
